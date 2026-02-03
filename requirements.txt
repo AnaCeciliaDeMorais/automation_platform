@@ -1,0 +1,6 @@
+selenium
+pyautogui
+prefect
+fastapi
+uvicorn
+requests
